@@ -1,0 +1,4 @@
+github.com/chai2010/webp v1.0.0 h1:64IosJhW2aYYWvqZiexusoDQFTSfzcJA7DU6na7RKHM=
+github.com/chai2010/webp v1.0.0/go.mod h1:LP12PG5IFmLGHUU26tBiCBKnghxx3toZFwDjOYvd3Ow=
+github.com/spf13/pflag v1.0.3 h1:zPAT6CGy6wXeQ7NtTnaTerfKOsV6V6F8agHXFiazDkg=
+github.com/spf13/pflag v1.0.3/go.mod h1:DYY7MBk1bdzusC3SYhjObp+wFpr4gzcvqqNjLnInEg4=
